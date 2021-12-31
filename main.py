@@ -1,4 +1,4 @@
+import tabula
 
-array = [{'nome': 'Marcio', 'idade':50}, {'nome':'Pedro', 'idade':32}]
 
-print(array[0]['nome'])
+tabula.convert_into("test.pdf", "teste.csv", output_format="csv", pages='all')

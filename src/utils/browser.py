@@ -70,3 +70,11 @@ if __name__ == '__main__':
     download_pdf(caminho_url_pdf, 'test.pdf')
     sleep(3)
     # browser.quit()
+
+'''
+
+Coisas a fazer:
+    - Arrumar bug que as vezes não fecha o cookie e continua no programa
+    - Fechar o browser após fazer o download ou nem abrir o browser para ganho de desempenho
+
+'''
