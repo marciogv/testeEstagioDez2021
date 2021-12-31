@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdf-table-extractor": "^1.0.3",
+    "pdf2table": "^0.0.2"
+  }
+}
