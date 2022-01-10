@@ -1,0 +1,24 @@
+136,Mensagem de envio de lote de guias para cobrança (Loteguias)
+137,Mensagem de recebimento de lote de guias de cobrança (recebimentoLote)
+138,Mensagem de solicitação de status do protocolo (solicitacaoStatusProtocolo)
+139,Mensagem de situação do protocolo de cobrança (situacaoProtocolo)
+140,Mensagem de recurso de glosa (recursoGlosa)
+141,Mensagem de recebimento do recurso de glosa (recebimentoRecursoGlosa)
+142,Mensagem de resposta ao recurso de glosa (respostaRecursoGlosa)
+143,Mensagem de solicitação de status do recurso de glosa(solicitaçãoStatusRecursoGlosa)
+144,Mensagem de solicitação de demonstrativos de retorno(solicitaçãoDemonstrativoRetorno)
+145,Mensagem de demonstrativos de retorno para o prestador (demonstrativosretorno)
+146,Mensagem de comunicação de internação ou alta do beneficiário(comunicacaoInternacao)
+147,Mensagem de resposta à comunicação de internação ou alta do beneficiário(reciboComunicacao)
+148,Mensagem de solicitação de cancelamento de guia (cancelaGuia)
+149,Mensagem de resposta a solicitação de cancelamento da guia (reciboCancelaGuia)
+150,Mensagem de envio de dados para ANS (envioOperadorasANS)
+151,Anexo de outras despesas
+152,Anexo de solicitação de quimioterapia
+153,Anexo de solicitação de radioterapia
+154,Anexo de solicitação OPME
+155,Anexo tratamento odontológico - situação inicial
+156,Guia de comprovante presencial
+157,Guia de consulta
+158,Guia de demonstrativo de análise da conta
+159,Guia de demonstrativo de pagamento
