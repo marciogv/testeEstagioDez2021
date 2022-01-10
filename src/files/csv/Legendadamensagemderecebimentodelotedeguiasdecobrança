@@ -1,25 +1,0 @@
-110,Legenda da mensagem de solicitação de status do protocolo
-111,Legenda da mensagem de situação do protocolo de cobrança
-112,Legenda da mensagem de recurso de glosa
-113,Legenda da mensagem de recebimento do recurso de glosa
-114,Legenda da mensagem de resposta ao recurso de glosa
-115,Legenda da mensagem de solicitação de status do recurso de glosa
-116,Legenda da mensagem de solicitação de demonstrativos de retorno
-117,Legenda da mensagem de demonstrativos de retorno para o prestador
-118,Legenda da mensagem de comunicação de internação ou alta do beneficiário
-119,Legenda da mensagem de resposta à comunicação de internação ou alta dobeneficiário
-120,Legenda da mensagem de solicitação de cancelamento de guia
-121,Legenda da mensagem de resposta a solicitação de cancelamento da guia
-122,Legenda da mensagem de informação acerca da negativa de autorização
-123,Legenda da mensagem de informações sobre partos
-124,Legenda da mensagem de envio de dados para ANS
-125,Legenda da mensagem de utilização de serviços
-126,Legenda da mensagem de negativa de autorização
-127,Legenda da mensagem de informação sobre partos
-128,Mensagem de verificação de elegibilidade (verificaElegibilidade)
-129,Mensagem de resposta à verificação de elegibilidade (respostaElegibilidade)
-130,Mensagem de solicitação de autorização para realização de procedimentos(solicitacaoProcedimento)
-131,Mensagem de autorização para realização de procedimentos (autorizaçãoServiços)
-132,Mensagem de envio de lote de anexos (LoteAnexos)
-133,Mensagem de recebimento de lote de anexos (recebimentoAnexo)
-134,Mensagem de solicitação de status de autorização (solicitaStatusAutorização)
